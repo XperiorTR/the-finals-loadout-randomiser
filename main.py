@@ -84,8 +84,8 @@ def main():
         curGadgets.pop(rand)
     print("//////////////////////////")
     print("Reserve:")
+    reserve = curGadgets + weaponList
     for i in range(4):
-        reserve = curGadgets + weaponList
         rand = random.randrange(len(reserve))
         thing = reserve[rand]
         print(thing)
