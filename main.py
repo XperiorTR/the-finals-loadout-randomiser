@@ -33,7 +33,7 @@ Light = classes( # Light Class
 # //////////////////////////////////////////////////////////////////////////////
 Medium = classes( # Medium Class
 [ # Weapons
-"AKM", "FCAR", "Repeater", "Pump-Action Grenade Launcher", "Riot Shield",
+"AKM", "FCAR", "Repeater", "CL-40", "Riot Shield",
 "R .357"
 ],
 [ # Specialisations (i hope im spelling that right)
